@@ -1,5 +1,6 @@
 # Mandela-tribute
 PT-BR: Página de Tributo de Nelson Mandela para consolidar os conhecimentos em HTML e CSS.
+
 EN:Tribute Page of Nelson Mandela to Consolidate the HTML and CSS knowledge.
 
 ![image](https://user-images.githubusercontent.com/61604214/158501519-7fb5026c-96d1-4cd3-9cc3-c986e900e17c.png)
