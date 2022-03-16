@@ -11,7 +11,7 @@ EN:Tribute Page of Nelson Mandela to Consolidate the HTML and CSS knowledge.
 
 <h1>TESTE: </h1>
 <p>Projeto testado e aprovado no Mobile-Friendly Test da Google https://search.google.com/test/mobile-friendly/result?id=JorbCZkeJqKKpOV_QhdAaw</p>
-<img href="https://user-images.githubusercontent.com/61604214/158504344-1165c2b4-34f9-4ec4-ab0d-45199a1c0397.png" target="_blank">
+https://user-images.githubusercontent.com/61604214/158504344-1165c2b4-34f9-4ec4-ab0d-45199a1c0397.png
 
 <h1>STATUS DO PROJETO: </h1>
 <p>O projeto está finalizado !</p>
